@@ -1,0 +1,8 @@
+name = "fullstack-app"
+type = "javascript"
+main = "worker.js"
+
+[[d1_databases]]
+binding = "D1"
+database_name = "comments_db"
+preview_database_name = "comments_db_preview"
