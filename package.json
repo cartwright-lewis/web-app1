@@ -2,18 +2,15 @@
     "name": "fullstack-app-frontend",
     "version": "1.0.0",
     "description": "Frontend for the Full Stack App using Hono framework",
-    "main": "index.js",
     "scripts": {
-      "start": "vite",  
-      "build": "vite build"  
+      "dev": "vite",             
+      "build": "vite build"      
     },
     "dependencies": {
-      "hono": "^2.1.1"  
+      "hono": "^2.1.1"           
     },
     "devDependencies": {
-      "vite": "^4.0.0" 
-    },
-    "author": "",
-    "license": "ISC"
+      "vite": "^4.0.0"           
+    }
   }
   
