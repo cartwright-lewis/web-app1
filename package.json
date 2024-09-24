@@ -4,15 +4,16 @@
     "description": "Frontend for the Full Stack App using Hono framework",
     "main": "index.js",
     "scripts": {
-      "start": "vite",  // Only if you're using Vite for local development
-      "build": "vite build"  // Only if you need a build step for deployment
+      "start": "vite",  
+      "build": "vite build"  
     },
     "dependencies": {
-      "hono": "^2.1.1"  // Include Hono for route management in the frontend
+      "hono": "^2.1.1"  
     },
     "devDependencies": {
-      "vite": "^4.0.0" // Vite is optional and used here for local development, not mandatory for production
+      "vite": "^4.0.0" 
     },
     "author": "",
     "license": "ISC"
-  }  
+  }
+  
