@@ -1,0 +1,12 @@
+{
+    "name": "fullstack-app-frontend",
+    "version": "1.0.0",
+    "description": "Frontend for the Full Stack App using Hono framework",
+    "main": "index.js",
+    "dependencies": {
+      "hono": "^2.1.1" 
+    },
+    "author": "",
+    "license": "ISC"
+  },
+  
